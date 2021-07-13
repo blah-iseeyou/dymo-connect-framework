@@ -1,0 +1,19 @@
+{
+  "name": "dymo-connect-framework",
+  "version": "1.0.0",
+  "description": "DYMO.Connect.Framework is a new JavaScript SDK based on DYMO.Label.Framework introducing compatibility with DYMO Connect Software.",
+  "main": "dymo.connect.framework.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blah-iseeyou/dymo-connect-framework.git"
+  },
+  "author": "dymosoftware",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blah-iseeyou/dymo-connect-framework/issues"
+  },
+  "homepage": "https://github.com/blah-iseeyou/dymo-connect-framework#readme"
+}
